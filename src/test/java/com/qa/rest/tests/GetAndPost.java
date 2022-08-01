@@ -60,11 +60,9 @@ public class GetAndPost {
 			statusCode(201).
 			log().all();
 		
+		System.out.println("Update for github");
+		
 	}
-	
-	
-	
-	
 	
 	
 	
